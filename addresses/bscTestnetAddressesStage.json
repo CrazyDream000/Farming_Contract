@@ -1,0 +1,11 @@
+{
+  "hay": "0x7adC9A28Fab850586dB99E7234EA2Eb7014950fA",
+  "incentiveVoting": "0x6cD66ca25b90A739D270588543B9c36980444888",
+  "incentiveVotingImplementation": "0xc50f1219d1e7FE6eCda53FC054715994dC9F5200",
+  "farming": "0x43587B5bE016Ff1AD33fcE1eA98561cec559506C",
+  "farmingImplementation": "0x9A85a1289E41c2DC7Bf2aA8003E603F7c3702FcC",
+  "pancakeProxyForDeposit": "0x968e6C1614aBe4261B65cC298A1FadCdC2cC90b9",
+  "pancakeProxyForDepositImplementation": "0x2d664490a50A0B2c610Ee4090920a0E86Af42BD2",
+  "pancakeStrategy": "0x4426d4161E00CED5016432FcCC69867eb963a7CF",
+  "pancakeStrategyImplementation": "0xfa18eB739310AB35fd8A6E02737220C3491b9Ab1"
+}

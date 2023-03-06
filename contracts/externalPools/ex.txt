@@ -1,0 +1,39 @@
+monday
+rewards => 700 -> 7 days
+user1 => 300;
+user2 => 400;
+
+after 4 days
+300 rewards.
+jar.replanish(1400);
+1700 rewards
+
+Friday - Suday
+6pm - 20 rewards
+jar.replanish(1400, true);
+
+
+week1 and week2
+
+addreward(week1);
+users will get on week2
+
+week1 - we will add rewards to the incentiveVoting contract
+and users will vote and choose pool shares
+on week2, monday ~00:00 we will call distributerewards()
+and it will distribute rewards through the pools
+
+
+vote for week2 - 50% internal pool, 20% ellipsis, and 30% jar - we have 100000
+on week3 - 50000 - internal, 20000 ellipsis, 30000 jar
+after 3 days someone calls replanish(0, true);
+15000 rewards for jar
+
+replanish - on monday 00:00 with argument "true".
+
+week1 monday replanish(1000, true);
+after 7 + X days we are calling replanish(1000, false); 
+
+
+
+
